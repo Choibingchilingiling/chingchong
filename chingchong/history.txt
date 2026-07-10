@@ -1,0 +1,6 @@
+==================================================
+[ SECTION 1: HARDWARE FAULT SIGNATURE ]
+python3: can't open file '/workspaces/chingchong/fault_seed.py': [Errno 2] No such file or directory
+
+--- BASELINE CRASH LOG ---
+python3: can't open file '/workspaces/chingchong/avionics_bus.py': [Errno 2] No such file or directory
